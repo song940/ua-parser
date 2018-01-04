@@ -1,0 +1,30 @@
+{
+  "name": "nagent",
+  "version": "0.0.1",
+  "main": "index.js",
+  "directories": {
+    "example": "example",
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "author": "lsong",
+  "license": "GPL-3.0",
+  "description": "simple user-agent parser for Node.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/song940/user-agent.git"
+  },
+  "bugs": {
+    "url": "https://github.com/song940/user-agent/issues"
+  },
+  "homepage": "https://github.com/song940/user-agent#readme",
+  "keywords": [
+    "useragent",
+    "ua",
+    "user-agent",
+    "ua-parser"
+  ]
+}
